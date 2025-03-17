@@ -120,6 +120,9 @@ AI & ML (e.g., Amazon SageMaker for predictive analytics)
 Serverless computing (e.g., AWS Lambda)
 Big data processing (e.g., AWS EMR for Hadoop)
 IoT solutions (e.g., AWS IoT Core)
+
+
+
 2. Google Cloud Platform (GCP) - Examples & Applications
 ✅ Spotify – Uses GCP for data analytics and recommendation algorithms.
 ✅ Twitter – Migrated some workloads to GCP for big data processing.
@@ -134,6 +137,10 @@ Big data & analytics (e.g., Google BigQuery for fast SQL queries)
 Kubernetes & containerization (e.g., Google Kubernetes Engine)
 High-performance computing (e.g., genomic data analysis)
 Cloud-based gaming (e.g., Stadia, game backends)
+
+
+
+
 3. Microsoft Azure - Examples & Applications
 ✅ LinkedIn – Runs on Azure for scalability and AI-powered recommendations.
 ✅ Xbox Cloud Gaming – Uses Azure for game streaming and multiplayer services.
