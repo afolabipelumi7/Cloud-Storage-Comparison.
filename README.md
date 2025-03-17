@@ -150,7 +150,7 @@ Cloud-based gaming (e.g., Stadia, game backends)
 
 
 
-## 🔹 Common Use Cases:
+🔹 Common Use Cases:
 
 Enterprise applications (e.g., SAP, Microsoft 365, Active Directory)
 Hybrid cloud solutions (e.g., Azure Arc, on-premises & cloud integration)
